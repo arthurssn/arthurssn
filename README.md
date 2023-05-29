@@ -25,10 +25,7 @@ Olá! Sou Arthur, um entusiasta da programação e apaixonado por tecnologia. Se
 <div/>
 <br />
 <br />
-<a href="https://google.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a/>
   
-<a href="https://google.com.br" target="_blank">
+<a href="https://google.com.br](https://www.linkedin.com/in/arthurssn-novaes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
