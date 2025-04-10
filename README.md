@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome] 
+# 👋 Olá! Eu sou Arthur Novaes
 
 🎯 Desenvolvedor full stack apaixonado por código limpo, arquitetura de software e boas práticas.  
 🚀 Explorando o universo com Vue.js, Laravel, Docker e boas ideias.
